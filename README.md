@@ -1,10 +1,10 @@
 <h1 align="center">👋 Hi, I'm <strong>Triananda Fajar Ramadhan</strong></h1>
 <h3 align="center">
-  Full Stack Developer | React | Next.js | Node.js | SaaS & CRM Systems
+  Full Stack Developer | React | Next.js | Node.js | SaaS & AI integration
 </h3>
 
 <p align="center">
-  • 5+ Years Experience • 150+ Projects Delivered
+  • 5+ Years Experience • 60+ Projects Delivered
 </p>
 
 <br/>

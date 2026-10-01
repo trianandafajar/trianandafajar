@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  • 5+ Years Experience • 60+ Projects Delivered
+  • 5+ Years Experience • 13+ Projects Delivered
 </p>
 
 <br/>

@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm <strong>Triananda Fajar Ramadhan</strong></h1>
 <h3 align="center">
-  Full Stack Developer | React | Next.js | Node.js | SaaS & AI integration
+Full-Stack Developer | WordPress, React, Next.js & SEO Expert
 </h3>
 
 <p align="center">
